@@ -44,5 +44,6 @@ int main()
     char res[100]; 
     printf("Equivalent of %d in base %d is "
            " %s\n", inputNum, base, fromDecimal(res, base, inputNum)); 
+           printf("This to check a git commit");
     return 0; 
 } 
